@@ -22,7 +22,7 @@ function Home({navigate,testimonials}) {
       <section className="bg-[#f5f6fa] overflow-hidden xl:min-h-[calc(100vh-0px)] lg:min-h-[calc(75vh-0px)] min-h-[calc(65vh-0px)] relative">
         <div className="grid grid-cols-1 lg:grid-cols-2 lg:gap-40 gap-5 items-center  max-w-[1525px] mx-auto lg:mt-60 mt-30 px-4">
           <div className=" lg:hidden block">
-            <img src="/assets/Group 100.png" alt="Tuition Illustration" className="w-full max-w-sm mx-auto" />
+            <img src="/assets/Homehero.png" alt="Tuition Illustration" className="w-full max-w-sm mx-auto" />
           </div>
           <div className="flex flex-col 2xl:gap-10 xl:gap-8 lg:gap-6 gap-5 text-center z-20 w-full ">
             <div className="typewriter">
@@ -48,7 +48,7 @@ function Home({navigate,testimonials}) {
           </div>
           <div className='hidden lg:block' >
             <div className=" hidden lg:block  relative z-10">
-              <img src="/assets/Group 100.png" alt="Tuition Illustration" className="max-w-2xl w-full  " />
+              <img src="/assets/Homehero.png" alt="Tuition Illustration" className="max-w-2xl w-full  " />
             </div>
             <div className=''>
               <img src="/assets/round-design.png" alt="no" className=" absolute z-0 h-[50px] w-fit left-[40%] top-[58%] animate-x-round" />
